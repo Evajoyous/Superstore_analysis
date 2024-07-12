@@ -1,2 +1,2 @@
 # Superstore_analysis
-Identifying performance trends of the products in a store over four years, getting insights necessary for the store to make better insightful and informed decisions subsequently.
+This project aims to identify performance trends of the products in a store for over four years and draw insights necessary for the store to make better-informed decisions.
