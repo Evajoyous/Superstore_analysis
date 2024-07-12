@@ -13,7 +13,8 @@ This project aims to identify performance trends of the products in a store for 
 ### Project Overview
 The project sets out to find out what products are performing well in terms of revenue, and the location where these products are doing well. Also, to identify the trends of the product performance over the four years, understand the reason for the underperformance of some segments for a particular period, along with other key findings which are necessary for the store to make better insightful and informed decisions.
 
-<img width="611" alt="Northwind dashboard" src="https://github.com/Evajoyous/Northwind-Logistics-Analysis/assets/93932037/4e3d6b92-2410-4b16-aa52-c4352064b2c2">
+<img width="611" alt="Northwind dashboard" src="[https://github.com/Evajoyous/Superstore_analysis/blob/main/superstore2.PNG]">
+
 ### Data Sources
 
 Logistics data: The primary dataset used for this analysis is the "northwind_data.csv" file, which contains detailed information about the logistics in the company.
